@@ -1,0 +1,19 @@
+# Django stuff:
+*.pot
+*.pyc
+__pycache__/
+local_settings.py
+db.sqlite3-journal
+db.sqlite3
+*.log
+
+# Media and static files
+/media
+/staticfiles
+
+# VS Code
+.vscode/
+
+# Environment
+.env
+.env.*
